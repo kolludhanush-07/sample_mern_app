@@ -1,0 +1,12 @@
+
+_id,studentId,name,age,gender,department,year,email,phone,marks,city,skills[0],skills[1],skills[2]
+6a853326f70a0cb86a400881,STU001,Arun Kumar,21,Male,CSE,3,arun@gmail.com,9876543210,85,Chennai,Python,Java,MongoDB
+6a853326f70a0cb86a400882,STU002,Priya S,20,Female,IT,2,priya@gmail.com,9876543211,92,Coimbatore,Python,React,JavaScript
+6a853326f70a0cb86a400883,STU003,Karthik R,22,Male,ECE,4,karthik@gmail.com,9876543212,68,Madurai,C,Embedded Systems,IoT
+6a853326f70a0cb86a400884,STU004,Divya M,21,Female,CSE,3,divya@gmail.com,9876543213,78,Chennai,Java,Spring Boot,MySQL
+6a853326f70a0cb86a400885,STU005,Vijay K,23,Male,IT,4,vijay@gmail.com,9876543214,55,Salem,HTML,CSS,JavaScript
+6a853326f70a0cb86a400886,STU006,Anjali P,20,Female,CSE,2,anjali@gmail.com,9876543215,88,Coimbatore,Python,Machine Learning,MongoDB
+6a853326f70a0cb86a400887,STU007,Suresh B,22,Male,MECH,4,suresh@gmail.com,9876543216,72,Trichy,AutoCAD,SolidWorks,
+6a853326f70a0cb86a400888,STU008,Keerthana R,21,Female,IT,3,keerthana@gmail.com,9876543217,95,Chennai,React,Node.js,MongoDB
+6a853326f70a0cb86a400889,STU009,Rahul V,19,Male,CSE,1,rahul@gmail.com,9876543218,61,Erode,Python,HTML,
+6a853326f70a0cb86a40088a,STU010,Nithya K,22,Female,ECE,4,nithya@gmail.com,9876543219,82,Madurai,C++,IoT,Python
